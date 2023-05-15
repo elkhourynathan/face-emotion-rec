@@ -1,0 +1,3 @@
+/Users/nathanelkhoury/Desktop/Programming/projects/emotion-rec/build/CMakeFiles/EmotionDetector.dir
+/Users/nathanelkhoury/Desktop/Programming/projects/emotion-rec/build/CMakeFiles/edit_cache.dir
+/Users/nathanelkhoury/Desktop/Programming/projects/emotion-rec/build/CMakeFiles/rebuild_cache.dir
